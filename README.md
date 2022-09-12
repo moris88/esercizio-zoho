@@ -11,14 +11,14 @@
 
 Creare un mini widget (Related list) su Zoho CRM e implementare:
 
-- Creare una repository su github, di nome 'widget-esercizio';
-- Creare il progetto react e fare il commit sulla repository creata precedentemente;
-- Creare una interfaccia grafica di base che visualizzi il modulo e l'id del record aperto;
-- Aggiungere un pulsante che al suo click visualizzi il json di risposta della getRecord;
-- Aggiungere due input per l'inserimento di due campi del record da poter aggiornare, inserendo un pulsante che al click ti chieda di confermare i dati, e successivamente che aggiorna il record con la updateRecord;
+- una repository su github, di nome 'widget-esercizio';
+- fare il commit sulla repository creata precedentemente, utilizzando react;
+- una interfaccia grafica di base che visualizzi il modulo e l'id del record aperto;
+- un pulsante che al suo click visualizzi il json di risposta della getRecord;
+- due input per l'inserimento di due campi del record da poter aggiornare, inserendo un pulsante che al click ti chieda di confermare i dati, e successivamente che aggiorna il record con la updateRecord;
   
 Extra:
-- Aggiungere un pulsante che al suo click elimina il record in cui il widget e' in esecuzione.
+- un pulsante che al suo click elimina il record in cui il widget e' in esecuzione.
 
 ## Documentazione Utile
 
