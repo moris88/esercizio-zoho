@@ -29,6 +29,16 @@ Extra:
 - [NPM](https://docs.npmjs.com/);
 - [Using Widget](https://www.zoho.com/crm/developer/docs/widgets/usage.html).
 
+## Screen
+
+![Visualizzazione](/assets/images/SharedScreenshot1.png?raw=true)
+![GetRecord](/assets/images/SharedScreenshot2.png?raw=true)
+![UpdateRecordConfirm](/assets/images/SharedScreenshot3.png?raw=true)
+![UpdateRecord](/assets/images/SharedScreenshot4.png?raw=true)
+![DeleteRecordConfirm](/assets/images/SharedScreenshot5.png?raw=true)
+![DeleteRecord](/assets/images/SharedScreenshot6.png?raw=true)
+
+
 ## Data di consegna
 
 Entro e non oltre il 13/09/2022 alle ore 17:30.
